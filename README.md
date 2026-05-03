@@ -45,9 +45,9 @@
   <img src="./assets/epiland-header.png" />
 3. Ідеальні атракціони для дітей 6-11 років.<br>
 4. Наявні спеціальні пропозиції для цієї категорії.<br>
-  https://chabany.epiland.com/paketniy-taryf-den-narodzhennya
-  https://obukhiv.epiland.com/svyatkoviy-bonus-do-dnya-narodzhennya
-  https://kyiv.epiland.com/paketniy-taryf-den-narodzhennya
+  https://chabany.epiland.com/paketniy-taryf-den-narodzhennya<br>
+  https://obukhiv.epiland.com/svyatkoviy-bonus-do-dnya-narodzhennya<br>
+  https://kyiv.epiland.com/paketniy-taryf-den-narodzhennya<br>
   https://obukhiv.epiland.com/game-combo-za-super-tsinoyu-dlya-imenynyka-ta-druziv
 
 ### Що їх турбує?
