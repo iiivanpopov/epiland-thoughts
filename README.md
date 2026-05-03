@@ -43,7 +43,7 @@
 1. Для цієї категорії розроблено величезну кількість послуг.
 2. Ця послуга є окремою вкладкою на сайті і доступна у кожному парку.<br>
   <img src="./assets/epiland-header.png" />
-3. Ідеальні атракціони для дітей 6-11 років.
+3. Ідеальні атракціони для дітей 6-11 років.<br>
 4. Наявні спеціальні пропозиції для цієї категорії.<br>
   https://chabany.epiland.com/paketniy-taryf-den-narodzhennya
   https://obukhiv.epiland.com/svyatkoviy-bonus-do-dnya-narodzhennya
